@@ -1,0 +1,16 @@
+# NovaFin Data Dictionary
+
+This document describes the synthetic datasets used in the NovaFin Analytics Platform.
+
+All data is fictional and generated for portfolio purposes.
+
+## Tables
+
+- `dim_customers`: Customer attributes and acquisition information
+- `fact_funnel`: Customer funnel progression from visitor to activation
+- `fact_subscriptions`: Monthly subscription and add-on revenue
+- `fact_engagement`: Monthly product engagement behavior
+- `fact_utilization`: Monthly feature utilization
+- `fact_retention`: Monthly active, churn, and reactivation status
+- `fact_forecast_inputs`: Forecasting and scenario planning assumptions
+- `fact_budget`: Budget and plan targets for actual-vs-budget analysis
