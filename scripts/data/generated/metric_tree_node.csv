@@ -1,0 +1,13 @@
+metric_name,parent_metric,level
+MRR,,0
+Active Subscribers,MRR,1
+Revenue Per Subscriber,MRR,1
+New Subscribers,Active Subscribers,2
+Retained Subscribers,Active Subscribers,2
+Activation Rate,New Subscribers,3
+Retention Rate,Retained Subscribers,3
+Product Engagement,Retained Subscribers,3
+Feature Utilization,Retained Subscribers,3
+Subscription Revenue,Revenue Per Subscriber,2
+Add-On Revenue,Revenue Per Subscriber,2
+Premium Adoption,Revenue Per Subscriber,2
